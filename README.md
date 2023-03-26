@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blue Prism**
 
-- 👨‍💻 My current side project is [Rule Shots App](Rule Shots App)
+- 👨‍💻 My current side project is **Rule Shots App**
 
 - 💬 Ask me about **C# and .Net**
 
