@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Filippi</h1>
 <h3 align="center">A passionate FullStack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Blue Prism**
+- 🌱 I’m currently learning **Blue Prism, PySpark and SAS Guide**
 
 - 👨‍💻 My current side project is **Rule Shots App**
 
