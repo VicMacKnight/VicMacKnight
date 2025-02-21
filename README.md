@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Victor Filippi</h1>
 <h3 align="center">A passionate FullStack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Blue Prism, PySpark and SAS Guide**
+- 🌱 I’m currently learning **RPA with Python**
 
 - 👨‍💻 My current side project is **Rule Shots App**
 
-- 💬 Ask me about **C# and .Net**
+- 💬 Ask me about **C#, .Net and Python**
 
-- 📫 How to reach me **vfn.franco@hotmail.com**
+- 📫 How to reach me **vfn.franco@protonmail.com**
 
 - ⚡ Fun fact **I'm the biggest fan of The Strokes**
 
