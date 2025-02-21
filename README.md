@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **RPA with Python**
 
-- 👨‍💻 My current side project is **Rule Shots App**
+- 👨‍💻 My current side project is **All tomations**
 
 - 💬 Ask me about **C#, .Net and Python**
 
