@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Victor Filippi</h1>
-<h3 align="center">A passionate RPA developer from Brazil, going to Portugal</h3>
+<h1 align="center">Hi 👋, I'm Victor Franco</h1>
+<h3 align="center">A passionate RPA developer from Brazil, living in Portugal</h3>
 
 - 🌱 I’m currently learning **RPA with Python**
 
